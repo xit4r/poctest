@@ -1,5 +1,5 @@
 {
-    "name": "firstrandomtest",
+    "name": "ext-dom",
     "type": "library",
     "description": "Logging for PHP 8.0",
     "keywords": ["log","logging"],
